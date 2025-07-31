@@ -1,4 +1,4 @@
-package Exercícios;
+package Exercícios.Ingresso;
 public class Ingresso {
     protected double valorBase;
     protected String nomeFilme;

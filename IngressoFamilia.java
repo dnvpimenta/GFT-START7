@@ -1,6 +1,6 @@
-package Exercícios;
+package Exercícios.Ingresso;
 public class IngressoFamilia extends Ingresso {
-    private int numeroPessoas;
+    private final int numeroPessoas;
 
     public IngressoFamilia(double valorBase, String nomeFilme, boolean isDublado, int numeroPessoas) {
         super(valorBase, nomeFilme, isDublado);

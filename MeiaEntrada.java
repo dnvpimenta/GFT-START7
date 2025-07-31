@@ -1,4 +1,4 @@
-package Exercícios;
+package Exercícios.Ingresso;
 public class MeiaEntrada extends Ingresso {
     public MeiaEntrada(double valorBase, String nomeFilme, boolean isDublado) {
         super(valorBase, nomeFilme, isDublado);

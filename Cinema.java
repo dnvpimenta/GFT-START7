@@ -1,4 +1,4 @@
-package Exercícios;
+package Exercícios.Ingresso;
 public class Cinema {
     public static void main(String[] args) {
         // Criando ingressos de diferentes tipos
