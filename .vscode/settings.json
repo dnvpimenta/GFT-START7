@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "jdk.java.imports.countForUsingStarImport": 999999999,
+    "jdk.java.imports.countForUsingStaticStarImport": 999999999,
+    "cSpell.words": [
+        "Produto"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
